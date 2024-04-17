@@ -1,0 +1,16 @@
+pandas
+streamlit
+numpy
+xgboost
+scikit-learn
+matplotlib
+seaborn
+plotly
+pmdarima
+statsmodels
+warnings
+lightgbm
+PIL
+requests
+io
+json
