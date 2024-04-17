@@ -11,5 +11,3 @@ statsmodels
 lightgbm
 pillow
 requests
-
-json
