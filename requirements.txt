@@ -11,3 +11,4 @@ statsmodels
 lightgbm
 pillow
 requests
+streamlit_lottie
